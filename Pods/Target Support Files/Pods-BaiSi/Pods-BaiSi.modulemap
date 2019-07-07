@@ -1,0 +1,6 @@
+module Pods_BaiSi {
+  umbrella header "Pods-BaiSi-umbrella.h"
+
+  export *
+  module * { export * }
+}
